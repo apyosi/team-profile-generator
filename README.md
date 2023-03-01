@@ -38,7 +38,7 @@ Install node.js and clone the reopsitory
 
 Run in cli the following command: `node index.js`
 
-
+https://user-images.githubusercontent.com/107482495/222146159-281c5226-d707-4172-a2a8-a4a87dee6040.mp4
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
