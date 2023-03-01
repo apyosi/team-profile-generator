@@ -1,7 +1,7 @@
 <a id="readme-top"></a>
 
 <div align="center">
-<h1 align="center">team-profile-generator</h1>
+<h1 align="center">Team Profile Generator</h1>
 <a href="https://github.com/apyosi/team-profile-generator/graphs/contributors"><img src="https://img.shields.io/github/contributors/apyosi/team-profile-generator.svg?style=for-the-badge" alt=""></a>
 <a href="https://github.com/apyosi/team-profile-generator/network/members"><img src="https://img.shields.io/github/forks/apyosi/team-profile-generator.svg?style=for-the-badge" alt=""></a>
 <a href="https://github.com/apyosi/team-profile-generator/stargazers"><img src="https://img.shields.io/github/stars/apyosi/team-profile-generator.svg?style=for-the-badge" alt=""></a>
@@ -21,22 +21,23 @@
   </ol>
 </details>
 
+
 <h2 id="description">🧾 Description</h2>
 
 The task is to take the given starter code and convert it into a working Node.js command-line application. This application will take in information
-about employees on a software engineering team, then generates an HTML webpage that displays summaries for each person.
+about employees on a software engineering team, then generates an HTML webpage that displays summaries for each person(Manager, engineers and interns). Tests have been provided, so sure every part of the code must passes each provided test. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <h2 id="installation">🛠️ Installation</h2>
 
-Install node.js and clone the reopsitory
+Clone the reopsitory and `npm install` to install the required packages **inquirer** and **jest**.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <h2 id="usage">▶️ Usage</h2>
 
-Run in cli the following command: `node index.js`
+Run in CLI the following command: `node index.js`
 
 https://user-images.githubusercontent.com/107482495/222146159-281c5226-d707-4172-a2a8-a4a87dee6040.mp4
 
