@@ -1,5 +1,5 @@
-
 <a id="readme-top"></a>
+
 <div align="center">
 <h1 align="center">team-profile-generator</h1>
 <a href="https://github.com/apyosi/team-profile-generator/graphs/contributors"><img src="https://img.shields.io/github/contributors/apyosi/team-profile-generator.svg?style=for-the-badge" alt=""></a>
@@ -51,6 +51,8 @@ Contributions are always welcome!
 <h2 id="tests">🧪 Tests</h2>
 
 To run the test, run the following command: ```npm run test```
+
+![test](./assets/tests.png)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
